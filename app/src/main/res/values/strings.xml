@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PRU</string>
+    <string name="show_pur_details">PUR Details</string>
+    <string name="show_details">Show details >></string>
+    <string name="certificate">Certificate</string>
+    <string name="persone_unique_registration">Persone Unique Registration</string>
+    <string name="pur_detalis">It contains detali related to the user linked with BHAMASHAH Id.</string>
+    <string name="image_descripation">image</string>
+    <string name="certificate_details">1.Hospital Details  \n2.Gurdian Name  \n3.PUR number  \n4.Location</string>
+    <string name="download_birth_certificate">Download Birth Certificate >></string>
+    <string name="hospital_details">Hospital Details</string>
+    <string name="show_hospital_details">Show Hospital Details >></string>
+    <string name="_1_map_location_n2_navigation_n3_doctor_details">1.Map Location  \n2.Navigation  \n3.Doctor details</string>
+</resources>
